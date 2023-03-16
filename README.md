@@ -1,7 +1,7 @@
 # Masteruah
 <table>
 <tr>
-<th>Nombre tetas</th>
+<th>Nombre HOLA EDITO SOY JAVI</th>
 <th>Github</th>
 </tr>
 </table>
